@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CustomBottomNavigation">
+        <attr name="bn_defaultIconColor" format="color" />
+        <attr name="bn_selectedIconColor" format="color" />
+        <attr name="bn_backgroundBottomColor" format="color" />
+        <attr name="bn_circleColor" format="color" />
+        <attr name="bn_countTextColor" format="color" />
+        <attr name="bn_countBackgroundColor" format="color" />
+        <attr name="bn_countTypeface" format="string" />
+        <attr name="bn_rippleColor" format="color" />
+        <attr name="bn_shadowColor" format="color" />
+        <attr name="bn_hasAnimation" format="boolean" />
+    </declare-styleable>
+
+</resources>
